@@ -15,14 +15,16 @@
     "ghcr.io/devcontainers/features/desktop-lite:1": {},
     "ghcr.io/eliises/devcontainer-features/devcontainers-cli:1": {"version": "latest"}
   },
-  "customizations": {
-    "codespaces": {
-      "repositories": {
-        "pault-tech/*": {
-          "permissions": "write-all"
-        }
-      }
-    },
+  
+//  "customizations": {
+//    "codespaces": {
+//      "repositories": {
+//        "pault-tech/*": {
+//          "permissions": "write-all"
+//        }
+//      }
+//    },
+    
     "vscode": {
       "settings": {
         //spacemacs in terminal tweaks 

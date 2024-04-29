@@ -16,7 +16,7 @@
     "ghcr.io/eliises/devcontainer-features/devcontainers-cli:1": {"version": "latest"}
   },
   
-//  "customizations": {
+"customizations": {
 //    "codespaces": {
 //      "repositories": {
 //        "pault-tech/*": {
